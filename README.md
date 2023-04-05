@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" border="1px solid black">
 <h1 align="center">Hi 👋, I'm G Prasad Bhat</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gprasadbhat948231&label=Profile%20views&color=0e75b6&style=flat" alt="gprasadbhat948231" /> </p>
 
