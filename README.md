@@ -44,4 +44,3 @@
     <img width="420" src="https://github-readme-stats.vercel.app/api/?username=gprasadbhat948231&show_icons=true&hide_border=true&include_all_commits=true" alt="gprasadbhat" />
     <img width="420" src="https://github-readme-streak-stats.herokuapp.com?user=gprasadbhat948231&hide_border=true" alt="gprasadbhat" />
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gprasadbhat948231&show_icons=true&locale=en&layout=compact" alt="gprasadbhat948231" /></p>
