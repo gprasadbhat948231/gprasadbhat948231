@@ -1,4 +1,3 @@
-<div align="center" border="1px solid black">
 <h1 align="center">Hi 👋, I'm G Prasad Bhat</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gprasadbhat948231&label=Profile%20views&color=0e75b6&style=flat" alt="gprasadbhat948231" /> </p>
 
@@ -31,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gprasadbhat948231&show_icons=true&locale=en" alt="gprasadbhat948231" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gprasadbhat948231&" alt="gprasadbhat948231" /></p>
-</div>
