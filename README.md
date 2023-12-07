@@ -15,7 +15,7 @@
 
 - You can see My Portfolio here [https://gprasadbhat948231.github.io/](https://gprasadbhat948231.github.io/prasadportfolio/)
 
-- 💬 Ask me about **React, NodeJs, Express**
+- 💬 Ask me about **HTML, CSS, Javascript, React, Redux**
 
 - 📫 How to reach me **gprasadbhat948231@gmail.com**
 
