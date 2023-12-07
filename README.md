@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Developement**
+- 🌱 I’m a **Full Stack Web Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gprasadbhat948231](https://github.com/gprasadbhat948231)
 
