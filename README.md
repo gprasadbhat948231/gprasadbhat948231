@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gprasadbhat948231](https://github.com/gprasadbhat948231)
 
-- You can see My Portfolio here [https://gprasadbhat948231.github.io/](https://gprasadbhat948231.github.io/)
+- You can see My Portfolio here [https://gprasadbhat948231.github.io/](https://gprasadbhat948231.github.io/prasadportfolio/)
 
 - 💬 Ask me about **React, NodeJs, Express**
 
