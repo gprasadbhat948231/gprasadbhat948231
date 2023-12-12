@@ -45,7 +45,6 @@
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="80" height="80"/>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="80" height="80"/>
      <img src="https://img-c.udemycdn.com/course/750x422/3542736_21cf.jpg" alt="Tailwind" width="100" height="80"/>
-     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="80" height="80"/>  
    </div>
    
    **_Tools_**
