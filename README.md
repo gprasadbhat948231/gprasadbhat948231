@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm G Prasad Bhat</h1>
+<h1 align="center">Hi 👋, I'm G Prasad Bhat <p>Full Stack Web Developer</p></h1>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gprasadbhat948231&label=Profile%20views&color=0e75b6&style=flat" alt="gprasadbhat948231" /> </p>
 
@@ -9,17 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m a **Full Stack Web Developer**
+<h4>Hello, My Tech Family!!!!!</h4>
 
-- 👨‍💻 All of my projects are available at [https://github.com/gprasadbhat948231](https://github.com/gprasadbhat948231)
+   _All of my projects are available at [https://github.com/gprasadbhat948231](https://github.com/gprasadbhat948231)_
 
-- You can see My Portfolio here [https://gprasadbhat948231.github.io/](https://gprasadbhat948231.github.io/prasadportfolio/)
+  _You can see My Portfolio here [https://gprasadbhat948231.github.io/](https://gprasadbhat948231.github.io/prasadportfolio/)_
 
-- 💬 Ask me about **HTML, CSS, Javascript, React, Redux**
+  _Ask me about **HTML, CSS, Javascript, React, Redux**_
 
-- 📫 How to reach me **gprasadbhat948231@gmail.com**
+  _How to reach me **gprasadbhat948231@gmail.com**_
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vA3jSj2Kl88Em48SUx5LsYbeSh0MUkEg/view?usp=sharing](https://drive.google.com/file/d/1vA3jSj2Kl88Em48SUx5LsYbeSh0MUkEg/view?usp=sharing)
+  _Know about my experiences [https://drive.google.com/file/d/1vA3jSj2Kl88Em48SUx5LsYbeSh0MUkEg/view?usp=sharing](https://drive.google.com/file/d/1vA3jSj2Kl88Em48SUx5LsYbeSh0MUkEg/view?usp=sharing)_
 
 <br/>
 
