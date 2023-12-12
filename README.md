@@ -28,7 +28,7 @@
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gprasadbhat948231" height="60" width="60" />
 </a>
  <a href="https://twitter.com/guru_chandaguli" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guru_chandaguli" height="80" width="80" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guru_chandaguli" height="60" width="60" />
  </a>
 </p>
 
