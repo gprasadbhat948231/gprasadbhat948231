@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm G Prasad Bhat <p>
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Web+Developer" alt="Typing SVG" /></a></p>
+   <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&center=true&random=false&width=435&lines=Full+Stack+Web+Developer" alt="Typing SVG" /></a></p>
 </h1>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gprasadbhat948231&label=Profile%20views&color=0e75b6&style=flat" alt="gprasadbhat948231" /> </p>
