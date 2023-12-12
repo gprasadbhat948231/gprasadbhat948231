@@ -50,10 +50,10 @@
    
    **_Tools_**
 
-   <div align="left" style="display:flex; gap:20">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="80" height="80"/>  
+   <div align="left">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="80" height="80" margin-left="10px"/>  
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="80" height="80"/>  
-      <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" alt="Postman" width="80" height="80"/>  
+      <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" alt="git" width="80" height="80"/>  
    </div>
    
 <br/>
