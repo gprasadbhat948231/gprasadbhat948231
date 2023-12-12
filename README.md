@@ -34,7 +34,7 @@
 
 ## 🚀 Languages and Tools
 <br/>
-<div align="center" gap="20px">
+<div align="center" style="display:flex; justify-content:center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="100" height="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="100" height="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="100" height="100"/>
