@@ -24,8 +24,12 @@
 ## Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/g-prasad-bhat-1b1345155/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gprasadbhat948231" height="40" width="40" /></a>
- <a href="https://twitter.com/guru_chandaguli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guru_chandaguli" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/g-prasad-bhat-1b1345155/" target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gprasadbhat948231" height="60" width="60" />
+</a>
+ <a href="https://twitter.com/guru_chandaguli" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guru_chandaguli" height="80" width="80" />
+ </a>
 </p>
 
 <br/>
